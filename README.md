@@ -1,7 +1,7 @@
 ### Opa, beleza? 👋
 
-- 🔭 Atualmente estou procurando estágio tanto em front-end quanto em back-end para começar minha carreira como Dev!😄
-- 🌱 Estou aprendendo Java e Git.
+- 🔭 Estou a procuran de um estágio tanto em front-end quanto em back-end para começar minha carreira como Dev!😄
+- 🌱 Atualmente aprendendo Java e Git.
 - 📫 Contate-me no e-mail: nicolaspiresferreira5@gmail.com
  
 ##
