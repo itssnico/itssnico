@@ -2,7 +2,7 @@
 
 - 🔭 Estou a procura de um estágio tanto em front-end quanto em back-end para começar minha carreira como Dev!😄
 - 🌱 Atualmente estudando SpringBoot em Java.
-- 📫 Contate-me no e-mail: nicolaspiresferreira5@gmail.com
+- 📫 Contate-me no e-mail: nicolaspf1@hotmail.com
  
 ##
 
