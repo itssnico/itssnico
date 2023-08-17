@@ -6,7 +6,7 @@
  
 ##
 
-<div align="center">
+<div align="">
   <a href="https://github.com/itssnico">
   <img height="150m" src="https://github-readme-stats.vercel.app/api?username=itssnico&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itssnico&layout=compact&langs_count=7&theme=dark"/>
