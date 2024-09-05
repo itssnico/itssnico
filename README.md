@@ -1,6 +1,6 @@
 ### Opa, beleza? 👋
 
-- 🔭 Estagiando como QA!😄
+- 🔭 Estagiário de QA!😄
 - 🌱 Atualmente estudando qualidade de software.
 - 📫 Contate-me no e-mail: nicolaspf1@hotmail.com
  
