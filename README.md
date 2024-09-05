@@ -1,7 +1,7 @@
 ### Opa, beleza? 👋
 
-- 🔭 Estou a procura de um estágio back-end com Java para começar minha carreira como Dev!😄
-- 🌱 Atualmente estudando SpringBoot e React.
+- 🔭 Estagiando como QA!😄
+- 🌱 Atualmente estudando qualidade de software.
 - 📫 Contate-me no e-mail: nicolaspf1@hotmail.com
  
 ##
